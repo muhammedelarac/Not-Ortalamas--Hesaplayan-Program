@@ -42,8 +42,8 @@ System.out.println("Sonucunuz : " + sonuc);
 
 // Sınıf Geçtin Tebrikler / Sınıfta Kaldın Malesf
 
-boolean kosul1 = sonuc== 50;
-boolean kosul2 = sonuc>=50;
+boolean kosul1 = sonuc<=60;
+boolean kosul2 = sonuc>=60;
 
 boolean sonuc1 =kosul1||kosul2; 
 
